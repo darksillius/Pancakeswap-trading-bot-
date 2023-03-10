@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pancakex.png" width="200"/>
+
   <h1>PancakeX</h1>
   <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
@@ -40,13 +40,9 @@
 ## 📦 Install
 
 ```bash
-1. Download python3+ for your PC from python org
-2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
-3. In the same terminal type "python3 astra.py"
+1. Download ZipFile
+2. Launch Installation
 ```
-## 💎 Successfull 40,000k snipe the other day :)
-
-![Code preview](success.png)
 
 ## 🤝 Sponsors
 
